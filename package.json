@@ -1,0 +1,23 @@
+{
+  "name": "ThreeSandbox",
+  "version": "1.0.0",
+  "description": "ThreeSandbox",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steen3d/ThreeSandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steen3d/ThreeSandbox/issues"
+  },
+  "homepage": "https://github.com/steen3d/ThreeSandbox#readme",
+  "dependencies": {
+    "three": "^0.118.3"
+  }
+}
