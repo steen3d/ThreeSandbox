@@ -19,7 +19,7 @@
   "homepage": "https://github.com/steen3d/ThreeSandbox#readme",
   "dependencies": {
     "gsap": "^3.4.1",
-    "three": "^0.118.3"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "webpack": "^4.43.0",
